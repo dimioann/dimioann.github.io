@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Story 1"
+title:  "The Arctic cat"
 date:   2022-07-09 15:00:00 +0200
-categories: stories sci-fi
+categories: stories
 ---
 
 I looked down at my abused, bitten to the bone fingers and wondered what the hell was I doing. What the hell was I doing with them and what the hell was I doing with my life. 
@@ -25,6 +25,3 @@ About a hundred clicks later, the battery died and I then realised how lucky I w
 
 I shoved the camera’s memory card into my laptop and waited for the pictures to be transferred. I looked at my forgotten, old camera and she looked back at me.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
